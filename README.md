@@ -125,8 +125,3 @@ jupyter notebook
 
 ---
 
-If you want, in a next step I can also prepare a version with:
-
-- an "academic report" style visual cover,
-- an automatic section index,
-- and a notebook progress table.
